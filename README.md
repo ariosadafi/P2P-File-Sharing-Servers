@@ -1,5 +1,7 @@
 Distributed Programming Course
 Politecnico di Torino
+
+
 ==============================
 June 2013
 
