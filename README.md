@@ -15,7 +15,7 @@ ASCII strings separated by a space. The first string can be either the IPv4 addr
 decimal notation or the name of the server host. The second string is the server TCP port number.
 
 3. The server interacts with the clients exactly as specified in exercise 2.3.
-4. 
+ 
 4. When the server receives a request for a file, it looks for the file in its local current directory. If the file is not
 found, the server tries to get the file from one of the servers listed in its configuration file (the server interacts
 with the other servers using the same protocol, but playing the client role). The server tries to contact the
